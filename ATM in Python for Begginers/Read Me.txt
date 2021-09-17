@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------------------------------------
+Project Difficulty Level : Absolute Begginers
+Project Done in  : Basics of Programming and Coding ( Virtual Summer Camp 2021 ) 
+Powered by : Proeducation Platform for Champions 
+Enroll in Upcoming BootCamps :   www.ppchampions.com
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+This projects contains 3 functions :
+
+1: withdraw_money()
+	to withdraw money from account. It also prints the final receipt after withdraw with remaining balance in account.
+
+
+2: sent_money()
+	send money with name or by phone number. It also prints the final receipt after sending money with remaining balance in account.
+
+3 : account_info()
+	it gives the total balance availble in the account
